@@ -116,3 +116,8 @@ Deze zet je op het menu item wat op dat moment de juiste pagina is. Zit je bijvo
 
 Dit is de a tag in de li. Dit zorgt ervoor dat het ook echt een link is. Deze heeft natuurlijk ook een Bootstrap class nodig.
 
+Dit is een van de vele voorbeelden waarbij Bootstrap gebruikt wordt. In het algemeen is het gewoon super handig bij het maken van een responsive website. Ik denk dat als iemand de documentatie van Bootstrap zelf erbij pakt, je al een heel eind komt. Daar staat in detail uitgelegd wat iedere class doet en hoe je het kunt gebruiken met voorbeelden. Toen ik net begon met Bootstrap, heb ik ook de documantatie gebruikt. Heb hierdoor nooit vast gezeten met Bootstrap.
+
+[Vind de documentatie hier](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+
