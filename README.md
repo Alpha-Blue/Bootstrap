@@ -1,4 +1,5 @@
 # Bootstrap
+This is a small tutorial I made on Bootstrap. I had to make this for my final schoolproject. (Hence why it's in dutch)
 
 ## Wat is Bootstap?
 
