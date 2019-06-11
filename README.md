@@ -60,23 +60,23 @@ Plak het volgende stukje code in de __body__ tag:
 </nav>
 ```
 Hieronder wat de verschillende classes betekenen:
-1. navbar
+#### 1. navbar
 
 Dit is de standaard navigatiebar class van Bootstrap. Bij iedere Bootstrap navigatiebar moet je deze gebruiken wil het fatsoenlijk functioneren. 
 
-2. navbar-expand-md
+#### 2. navbar-expand-md
 
 Deze class heeft verschillende groottes. (sm, small. md, medium. lg, large. xl, extra large) Dit bepaald wanneer het responsive menu tevoorschijn komt. Dus wanneer het "hamburger" menu tevoorschijn komt zoals dat genoemd wordt.
 
-3. navbar-dark
+#### 3. navbar-dark
 
 Dit is de kleur van de teskt in het menu (de nav-links). Je hebt ook bijvoorbeeld navbar-light voor een witte kleur.
 
-4. fixed-top
+#### 4. fixed-top
 
 Deze zorgt er simpelweg voor dat de navbar fixed wordt. Dus dat als je naar beneden scrolled op de pagina, de navbar meegaat. Items met position fixed, zitten dus vast aan een bepaalde positie zelfs al wordt er gescrolled.
 
-5. bg-dark
+#### 5. bg-dark
 
 Deze zorgt ervoor dat de navbar een donkere achtergrondkleur krijgt. Dit kan bijvoorbeeld ook zijn bg-light. Dan krijgt de navbar een lichte achtergrond.
 
