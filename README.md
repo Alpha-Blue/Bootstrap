@@ -55,23 +55,19 @@ Plak het volgende stukje code in de __body__ tag:
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-               expanded="false">Dropdown</a>
-        <div class="dropdown-menu" aria-labelledby="dropdown01">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
     </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
   </div>
 </nav>
 ```
+Hieronder wat de verschillende classes betekenen:
+1. navbar
+Dit is de standaard navigatiebar class van Bootstrap. Bij iedere Bootstrap navigatiebar moet je deze gebruiken wil het fatsoenlijk functioneren. 
+2. navbar-expand-md
+Deze class heeft verschillende groottes. (sm, small. md, medium. lg, large. xl, extra large) Dit bepaald wanneer het responsive menu tevoorschijn komt. Dus wanneer het "hamburger" menu tevoorschijn komt zoals dat genoemd wordt.
+3. navbar-dark
+Dit is de kleur van de teskt in het menu (de nav-links). Je hebt ook bijvoorbeeld navbar-light voor een witte kleur.
+4. fixed-top
+Deze zorgt er simpelweg voor dat de navbar fixed wordt. Dus dat als je naar beneden scrolled op de pagina, de navbar meegaat. Items met position fixed, zitten dus vast aan een bepaalde positie zelfs al wordt er gescrolled.
+5. bg-dark
+Deze zorgt ervoor dat de navbar een donkere achtergrondkleur krijgt. Dit kan bijvoorbeeld ook zijn bg-light. Dan krijgt de navbar een lichte achtergrond.
 
