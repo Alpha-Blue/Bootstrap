@@ -80,3 +80,39 @@ Deze zorgt er simpelweg voor dat de navbar fixed wordt. Dus dat als je naar bene
 
 Deze zorgt ervoor dat de navbar een donkere achtergrondkleur krijgt. Dit kan bijvoorbeeld ook zijn bg-light. Dan krijgt de navbar een lichte achtergrond.
 
+#### 6. navbar-brand
+
+Dit is simpelweg je logo in het begin van je navbar.
+
+#### 7. navbar-toggler
+
+Dit is de knop in het responsive menu. (het hamburger menu waar we het eerder over hadden) Door deze class weet bootstrap dat dat de knop is.
+
+#### 8. navbar-toggler-icon
+
+Dit is het icon wat je gebruikt. (bijvoorbeeld dus de hamburger.)
+
+#### 9. navbar-collapse, collapse
+
+Deze twee zorgen er simpelweg voor dat er een menu opent zodra je op de __navbar-toggler-icon__ klikt, en dat zodra je nog een keer klikt hij ook weer sluit.
+
+#### 10. navbar-nav
+
+Dit is gewoon een standaard class voor de UL van een menu.
+
+#### 11. mr-auto 
+
+Deze zorgt ervoor dat alle menu items aan de rechterkant van het menu uitlijnen.
+
+#### 12. nav-item
+
+Dit is een class die je aan iedere li tag geeft in je code. Zo weet bootstrap dat het een navigatie item is.
+
+#### 13. Active
+
+Deze zet je op het menu item wat op dat moment de juiste pagina is. Zit je bijvoorbeeld op de over ons pagina, dan zet je de class active ook op het menu item over ons.
+
+#### 14. nav-link
+
+Dit is de a tag in de li. Dit zorgt ervoor dat het ook echt een link is. Deze heeft natuurlijk ook een Bootstrap class nodig.
+
